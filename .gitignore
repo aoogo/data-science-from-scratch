@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+*.csv
+*.xlsx
+*.zip
+*.json
+*.7z
